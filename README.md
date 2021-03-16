@@ -3,6 +3,8 @@
 All credit to http://pyfdm.sourceforge.net/ https://sourceforge.net/projects/pyfdm/
 This is a fork uploaded for personal use.
 
+Original README left in as below.
+
 #
 
 This is the 0.3.1 release of PySE. 
