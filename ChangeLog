@@ -1,0 +1,26 @@
+2005-11-02 Asmund Odegard <aa at simula dot no>
+   * Minor update, fixed some importstatements in examples.
+
+2005-11-01 Asmund Odegard <aa at simula dot no>
+	* Namechange; The current software is now named PySE, PyFDM will be reserved
+	for a more complete packages.
+	* Cleaned up user interface
+	* Lots of performance enhancements. The StencilSet operator can now be
+	assembled in a sparse matrix structure.
+	* Fixed more bugs
+	* Added setup.py
+	* Organized files in subtrees.
+
+2005-09-04 Asmund Odegard <aa at simula dot no>
+   * Added more general iterators for boundary conditions
+	* Optimized the A*x operator for A StencilSet.
+	* Several additions to the user interface
+	* Added a small c-library for simple operations
+	* Fixed bugs
+	* Added more examples
+
+2005-06-24 Asmund Odegard <aa at simula dot on>
+	* Changed filename of tar-file and dir. it unpacks in.
+
+2005-06-23 Asmund Odegard <aa at simula dot no>
+	* Initial release, version 0.1

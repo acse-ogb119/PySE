@@ -1,0 +1,6 @@
+
+Todo list:
+
+Utils.boundaryTupleIterator, line: 265++
+There is a bug in setNewBounds. New bounds are not restriced properly, even if
+iOB = True.
